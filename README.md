@@ -14,4 +14,4 @@ This module challenge focused on analyzing data to gain insights into which citi
 I used Python programming language to create the code for this project in Visual Studio Code.
 
 # Resources 
-I attended a tutoring session and received assistance with correcting the groupby coding to ensure that the data pulled correctly. I also received assistance with locating the proper naming convention for the women's athletic shoe sales. In addition, I referred to the class lecture files for additional support.
+I attended a tutoring session and received assistance with correcting the groupby coding to ensure that the data pulled correctly. I also received assistance with locating the proper naming convention for the women's athletic shoe sales. In addition, I referred to the class lecture files and attended office hours for additional support.
